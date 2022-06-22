@@ -1,7 +1,7 @@
 println("MethodCall")
 
-def writingHelloWorld(var s){
-    script.echo("tries is numeric: " + s)
+def writingHelloWorld(){
+    script.echo("tries is numeric: ")
 }
 
 writingHelloWorld("ssssssss")
