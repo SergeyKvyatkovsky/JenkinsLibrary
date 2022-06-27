@@ -1,7 +1,7 @@
 class Testi{
     def inputRandomString(){
         double rnd = Math.random()
-        sh "echo Hello ${rnd}."
+        sh "echo Hello "
     }
 }
 
